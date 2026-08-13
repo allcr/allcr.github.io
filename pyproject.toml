@@ -1,0 +1,19 @@
+[project]
+name = "allcr-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Craig Allen", email = "craigjosephallen@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "pelican[markdown]>=4.12.0",
+]
+
+[project.scripts]
+allcr-github-io = "allcr_github_io:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"

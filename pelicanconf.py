@@ -1,6 +1,6 @@
 AUTHOR = "Craig"
 SITENAME = "allcr"
-SITESUBTITLE = "Notes on stats, F1 data, and whatever else"
+SITESUBTITLE = ""
 SITEURL = ""
 
 PATH = "content"
