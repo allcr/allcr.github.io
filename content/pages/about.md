@@ -1,6 +1,6 @@
 Title: About
 Slug: about
 
-Short bio goes here. Replace with a few sentences about who you are and what
-this site covers.
+I've been working with data for over ten years. I'll be posting different analyses or whatever I find interesting. 
 
+[Linkedin](https://linkedin.com/in/craigjallen)
