@@ -10,7 +10,8 @@ I wanted to announce that I will be starting to analyze the [ongoing Trench Crus
 
 The game has caught my eye lately with the Carcass Front starter box and I saw that Factory Fortress is publishing the report data. My main goal is to see what can be learned from the data collected. Factory Fortress publishes updates about every two hours with new reports. 
 
-Some things I'd like to learn :
+Some things I'd like to learn:
+
 * How will the win rates per region change over time and can they be reasonably forecasted?
 * Will there be any mean reversion going on in any of the regions? As of writing Latin America and Online players have the most prominent change from a purely random  50/50 spliit at 40-60 and 42-58 respectively. 
 
