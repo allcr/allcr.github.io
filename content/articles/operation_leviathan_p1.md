@@ -5,7 +5,7 @@ Tags: trench_crusade
 Slug: trench-crusade-operation-leviathan-p1
 
 
-I wanted to announce that I will be starting to analyze the (ongoing Trench Crusade campaign Operation Leviathan.)[https://www.trenchcrusade.com/operation-leviathan/]
+I wanted to announce that I will be starting to analyze the [ongoing Trench Crusade campaign Operation Leviathan.](https://www.trenchcrusade.com/operation-leviathan/)
 
 
 The game has caught my eye lately with the Carcass Front starter box and I saw that Factory Fortress is publishing the report data. My main goal is to see what can be learned from the data collected. Factory Fortress publishes updates about every two hours with new reports. 
